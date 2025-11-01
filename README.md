@@ -43,6 +43,9 @@ Python / CSV : Stockage local des comptes, candidatures et notes entretien
 RapidAPI (jSearch) : Recherche d’offres d’emploi
 Pathlib : Gestion de fichier
 
+lien drive: https://drive.google.com/drive/folders/1tlKMOLdh90lFfgQUCcG7ILRI1KC7Tyi7?usp=drive_link
+
+
 Auteurs
 GRILLON Pauline
 BA Ibrahima
