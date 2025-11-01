@@ -1,0 +1,14 @@
+{
+  "paulinege91@gmail.com": {
+    "prenom": "Pauline",
+    "nom": "Grillon",
+    "mot_de_passe": "18885f27b5af9012df19e496460f9294d5ab76128824c6f993787004f6d9a7db",
+    "info_mail": false
+  },
+  "test@yahoo.com": {
+    "prenom": "Test",
+    "nom": "Test",
+    "mot_de_passe": "18885f27b5af9012df19e496460f9294d5ab76128824c6f993787004f6d9a7db",
+    "info_mail": false
+  }
+}
